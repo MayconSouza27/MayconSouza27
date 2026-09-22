@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Bem-vindo ao meu perfil!</h1>
 
 <p align="justify">
-Apaixonado por tecnologia e resolução de problemas através do código. Atualmente a cursar <b>Análise e Desenvolvimento de Sistemas</b> na Estácio e focado na transição e evolução para posições de <b>Desenvolvedor Backend Junior</b>. Dedico o meu tempo diariamente ao estudo e prática de arquitetura de software, construção de APIs RESTful e boas práticas de desenvolvimento.
+Apaixonado por tecnologia e resolução de problemas através do código. Atualmente estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na Estácio e focado na transição e evolução para posições de <b>Desenvolvedor Backend Junior</b>. Dedico o meu tempo diariamente ao estudo e prática de arquitetura de software, construção de APIs RESTful e boas práticas de desenvolvimento.
 </p>
 
 ---
@@ -10,7 +10,7 @@ Apaixonado por tecnologia e resolução de problemas através do código. Atualm
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (Estácio).
 - ☕ Focado no ecossistema **Java** & **Spring Boot**.
-- 🛠️ Atualmente a desenvolver uma **API RESTful de Locadora de Veículos** com arquitetura em camadas, Spring Data JPA, Flyway e Docker.
+- 🛠️ Atualmente desenvolvendo uma **API RESTful de Locadora de Veículos** com arquitetura em camadas, Spring Data JPA, Flyway e Docker.
 - 📬 Como me contactar: **franciskomaycon@gmail.com**
 
 ---
