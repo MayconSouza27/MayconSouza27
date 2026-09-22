@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Bem-vindo ao meu perfil!</h1>
 
-<!--
-**MayconSouza27/MayconSouza27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="justify">
+Apaixonado por tecnologia e resolução de problemas através do código. Atualmente a cursar <b>Análise e Desenvolvimento de Sistemas</b> na Estácio e focado na transição e evolução para posições de <b>Desenvolvedor Backend Junior</b>. Dedico o meu tempo diariamente ao estudo e prática de arquitetura de software, construção de APIs RESTful e boas práticas de desenvolvimento.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (Estácio).
+- ☕ Focado no ecossistema **Java** & **Spring Boot**.
+- 🛠️ Atualmente a desenvolver uma **API RESTful de Locadora de Veículos** com arquitetura em camadas, Spring Data JPA, Flyway e Docker.
+- 📬 Como me contactar: **franciskomaycon@gmail.com**
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayconSouza27&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconSouza27&layout=compact&theme=dracula&hide=html,css" alt="Linguagens mais usadas" height="150" />
+</div>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</div>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://linkedin.com/in/maycon-souza-171537330" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:franciskomaycon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
