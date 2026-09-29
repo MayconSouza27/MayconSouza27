@@ -15,14 +15,14 @@ Apaixonado por tecnologia e resolução de problemas através do código. Atualm
 
 ---
 
-### 📊 Minhas Estatísticas
 
-### Minhas Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayconSouza27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconSouza27&layout=compact&theme=tokyonight"/>
-</p>
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayconSouza27&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconSouza27&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180em" />
+</div>
 
 ### 🛠️ Tecnologias e Ferramentas
 
